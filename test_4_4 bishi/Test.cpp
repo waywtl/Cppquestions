@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS 1
 
-//½âÎö×Ö·û´®
+//è§£æå­—ç¬¦ä¸²
 #include <iostream>
 #include <vector>
 #include <string>
@@ -47,7 +47,7 @@ int main()
     return 0;
 }
 
-//Ô¼ÊıÌøÊ¯°å
+//çº¦æ•°è·³çŸ³æ¿
 //O(n2)
 #include <iostream>
 #include <vector>
